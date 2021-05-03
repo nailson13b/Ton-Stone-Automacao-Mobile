@@ -1,0 +1,7 @@
+[caps]
+automationName = "UIAutomator2"
+platformName = "Android"
+deviceName = "Android Emulator"
+udid = "emulator-5554"
+appPackage = "br.com.stone.ton"
+appActivity = "br.com.stone.ton.MainActivity"
