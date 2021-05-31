@@ -1,5 +1,11 @@
 # Ton-automação-teste
 
+
+
+https://user-images.githubusercontent.com/78864593/120126339-56c3f180-c192-11eb-9b7d-d93371b00036.mp4
+
+
+
 Fiz uma automação de teste do aplicativo mobile do [Ton](https://www.linkedin.com/company/seliganoton/) [Stone](https://www.linkedin.com/company/stone-co/) considerando um cenário onde o aplicativo tenha que impedir um cadastro ao ser inserido um CPF inválido, assim até reduzindo as chances de fraudes com a utilização de algum produto financeiro da empresa.
 
 Nessa automação mobile no sistema Android, utilizei o Appium com a linguagem Ruby, integrando o cucumber, allure e criando um cenário em BDD com a sintaxe Gherkin, dentre outras abordagens como, Page Object Model.
